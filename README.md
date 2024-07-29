@@ -1,6 +1,7 @@
 <h1  style="font-family: Arial" align="center">Hi 👋, I'm Shivansh Goel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Goelshiva1611&label=Profile%20views&color=0e75b6&style=flat" alt="Goelshiva1611" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Goelshiva1611&label=Profile%20views&color=0e75b6&style=flat" alt="Goelshiva1611" /> </p
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhaan06" alt="shubhaan06" /></a> </p>                                                                                                                                                    
 - 📫 How to reach me **shivanshgoel1611@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
